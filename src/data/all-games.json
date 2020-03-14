@@ -1,0 +1,662 @@
+{
+    "status": 200,
+    "type": "success",
+    "error": false,
+    "message": "Done, user list!",
+    "data": {
+        "games": [
+            {
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            },{
+                "id": 6000,
+                "home_team":{
+                    "id": 2343,
+                    "name": "atlas",
+                    "score": 4,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/5160cd65-49b1-4529-bf5e-42b680ce1dff.png"
+                },
+                "away_team": {
+                    "id": 4592,
+                    "name": "chivas",
+                    "score": 3,
+                    "logo": "https://gs-qatar-uploads.s3.amazonaws.com/46fd0dc2-2f64-40c8-b858-21fdf16f1ad0.png"
+                },
+                "date": "2020-09-11",
+                "stadium":{
+                    "id": 2,
+                    "name": "akron"
+                },
+                "season": "2018/2019",
+                "competition": "primera liga",
+                "status": "post game",
+                "created": "2020-01-20T19:03:15.000Z",
+                "created_by": 3,
+                "last_edited": "2020-02-14T01:09:21.000Z",
+                "last_edited_by": 3
+            }
+        ],
+        "count": 25
+    }
+}
